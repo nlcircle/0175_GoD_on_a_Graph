@@ -1,0 +1,24 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {"id": "1", "label": "1/S", "color": "green"},
+    {"id": "2", "label": "2", "color": "gray"},
+    {"id": "3", "label": "3", "color": "gray"},
+    {"id": "4", "label": "4", "color": "gray"}
+    {"id": "5", "label": "5", "color": "gray"},
+    {"id": "6", "label": "6", "color": "gray"},
+    {"id": "7", "label": "7/T", "color": "red"}
+  ],
+  "links": [
+    {"source": "1", "target": "2", "label": "p=0", "weight": 0},
+    {"source": "B", "target": "C", "label": "p=0", "weight": 0},
+    {"source": "C", "target": "D", "label": "p=0", "weight": 0},
+    {"source": "A", "target": "D", "label": "p=0", "weight": 0},
+    {"source": "1", "target": "2", "label": "p=0", "weight": 0},
+    {"source": "B", "target": "C", "label": "p=0", "weight": 0},
+    {"source": "C", "target": "D", "label": "p=0", "weight": 0},
+    {"source": "A", "target": "D", "label": "p=0", "weight": 0}
+  ]
+}
