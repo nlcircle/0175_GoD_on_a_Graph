@@ -9,7 +9,7 @@
     {"id": "4", "label": "4", "color": "gray"},
     {"id": "5", "label": "5", "color": "gray"},
     {"id": "6", "label": "6", "color": "gray"},
-    {"id": "7", "label": "7/T", "color": "red"}
+    {"id": "7", "label": "7/T", "color": "maroon"}
   ],
   "links": [
     {"source": "1", "target": "2", "label": "p=0", "weight": 0, "length": 1},
