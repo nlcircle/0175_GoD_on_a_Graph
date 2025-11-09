@@ -1,0 +1,22 @@
+\begin{table} [ht!] 
+\renewcommand{\arraystretch}{1.2} 
+\caption{Simple paths from S to T for graph in Fig.~\ref{fig:ExampleGraph}} 
+\label{tab:SimplePathsExample} 
+	\centering 
+	\begin{tabular}{c c c} \toprule 
+	\textbf{Path ID} & \textbf{Route} & \textbf{Length} \\ \midrule 
+		1 & 1–2–3–7 & 3 \\ 
+		2 & 1–2–4–5–6–7 & 5 \\ 
+		3 & 1–2–4–6–7 & 4 \\ 
+		4 & 1–4–2–3–7 & 4 \\ 
+		\midrule 
+		5 & 1–4–5–6–7 & 4 \\ 
+		6 & 1–4–6–7 & 3 \\ 
+		7 & 1–5–4–2–3–7 & 5 \\ 
+		8 & 1–5–4–6–7 & 4 \\ 
+		\midrule 
+		9 & 1–5–6–4–2–3–7 & 6 \\ 
+		10 & 1–5–6–7 & 3 \\ 
+		\bottomrule 
+	\end{tabular} 
+\end{table}
