@@ -1,0 +1,13 @@
+\begin{table}[ht!] 
+\renewcommand{\arraystretch}{1.2} 
+\caption{Lexicographic utility $u(p,j) = (R_p, L_p)$ for each path $p$ and jammer $j$} 
+\label{tab:LexOrdPayoffMatrix} 
+\centering 
+\begin{tabular}{cccccccccc} \toprule 
+Jammer \# & $p_{1}$ & $p_{2}$ & $p_{3}$ & $p_{4}$ & $p_{5}$ & $p_{6}$ & $p_{7}$ & $p_{8}$ & $p_{9}$ \\ \midrule
+$j_{1}$ & $(0.8, 3)$ & $(0.8, 5)$ & $(0.8, 4)$ & $(0.8, 4)$ & $(0.0, 4)$ & $(0.0, 3)$ & $(0.8, 5)$ & $(0.0, 4)$ & $(0.0, 3)$ \\ 
+$j_{2}$ & $(0.8, 3)$ & $(0.0, 5)$ & $(0.0, 4)$ & $(0.8, 4)$ & $(0.0, 4)$ & $(0.0, 3)$ & $(0.8, 5)$ & $(0.0, 4)$ & $(0.0, 3)$ \\ 
+$j_{3}$ & $(0.0, 3)$ & $(0.8, 5)$ & $(0.8, 4)$ & $(0.8, 4)$ & $(0.8, 4)$ & $(0.8, 3)$ & $(0.8, 5)$ & $(0.8, 4)$ & $(0.0, 3)$ \\ 
+\bottomrule 
+\end{tabular} 
+\end{table}
