@@ -1,0 +1,18 @@
+\begin{table} [ht!]
+\centering
+\caption{Path domination based on strict lexicographic payoff comparison}
+\label{tab:DominatingStrategies}
+\begin{tabular}{c | l}
+\toprule
+Path ID & Dominated Paths \\
+\midrule
+1 & 4, 7 \\
+3 & 2 \\
+4 & 7 \\
+5 & 2 \\
+6 & 2, 3, 5, 8 \\
+8 & 2 \\
+9 & 2, 5, 8 \\
+\bottomrule
+\end{tabular}
+\end{table}
