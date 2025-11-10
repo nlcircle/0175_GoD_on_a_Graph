@@ -1,0 +1,19 @@
+\begin{table} [ht!] 
+\renewcommand{\arraystretch}{1.2} 
+\caption{Risk Matrix $R(p,j)$} 
+\label{tab:RiskMatrix} 
+	\centering 
+	\begin{tabular}{c l l l l l} \toprule 
+	\textbf{Path ID} & j=2 & j=3 & j=4 & j=5 & j=6 \\ \midrule 
+	1 & 0.75 & 0.75 & 0.00 & 0.00 & 0.00 \\ 
+	2 & 0.75 & 0.00 & 0.75 & 0.75 & 0.75 \\ 
+	3 & 0.75 & 0.00 & 0.75 & 0.00 & 0.75 \\ 
+	4 & 0.75 & 0.75 & 0.75 & 0.00 & 0.00 \\ 
+	5 & 0.00 & 0.00 & 0.75 & 0.75 & 0.75 \\ 
+	6 & 0.00 & 0.00 & 0.75 & 0.00 & 0.75 \\ 
+	7 & 0.75 & 0.75 & 0.75 & 0.75 & 0.00 \\ 
+	8 & 0.00 & 0.00 & 0.75 & 0.75 & 0.75 \\ 
+	10 & 0.00 & 0.00 & 0.00 & 0.75 & 0.75 \\ 
+	\bottomrule 
+	\end{tabular} 
+\end{table}
